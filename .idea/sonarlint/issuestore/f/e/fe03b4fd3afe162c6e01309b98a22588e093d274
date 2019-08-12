@@ -1,0 +1,9 @@
+
+Esquid:S2189I""Correct this loop's end condition.(¬Şó­ùÿÿÿÿ8Ì‘Ë‹È-
+Usquid:S2589!"7Remove this expression which always evaluates to "true"(â­ÊÊ8óÛ½ËÇ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ş¬ß8æÆĞ‹È-
+Xsquid:UselessImportCheck"-Remove this unused import 'salarios.Salario'.(‚Ñ¬Î8³œŠÈ-
+\squid:S2251I"9"i" is incremented and will never reach "stop condition".(¬Şó­ùÿÿÿÿ8Ì‘Ë‹È-
+?squid:S2326"!bolean is not used in the method.(Ş¬ß8Â¶ÎÇ-
+hsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ş¬ß8‰ŞÍÇ-
+Vsquid:S1197D"8Move the array designator from the variable to the type.(Íò“¹8Øç‹È-
